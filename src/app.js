@@ -24,6 +24,12 @@ app.get('/wbs',(req,res)=>{
 
 })
 
+app.get('*',(req,res)=> {
+
+    res.redirect('/');
+
+})
+
 
 
 app.listen(port, () => {
