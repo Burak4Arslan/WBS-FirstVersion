@@ -158,5 +158,25 @@ body {
 }
 
 
+.indexa {
 
+	text-decoration: none;
+	color: blue;
+	font-size: 40px;
+	margin-bottom: 50px;
+	margin-top: 100px;
 
+}
+
+.indexa:hover {
+
+	text-decoration: none;
+	color: white;
+
+}
+
+.indexp {
+
+	color: #543AF2;
+
+}
